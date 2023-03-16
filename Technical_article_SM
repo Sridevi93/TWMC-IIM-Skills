@@ -1,0 +1,19 @@
+# BlockChain Technology
+---
+*An advanced database mechanism that allows transparent information sharing within a business network.*
+---
+## Blockchain and its importance
+Blockchain technology is a decentralized and distributed digital ledger that records transactions across multiple computers in a secure and transparent manner. It was originally developed as the underlying technology for the cryptocurrency, Bitcoin. A blockchain database stores data in blocks that are linked together in a chain. The data is chronologically consistent because you cannot delete or modify the chain without consensus from the network. As a result, you can use blockchain technology to create an unalterable or immutable ledger for tracking orders, payments, accounts, and other transactions. The system has built-in mechanisms that prevent unauthorized transaction entries and create consistency in the shared view of these transactions.  Blockchain is a special type of database management system that has more features than a regular database.
+One of the key benefits of blockchain technology is that it allows for secure and transparent transactions without the need for intermediaries such as banks or other financial institutions. This can lead to increased efficiency, lower transaction costs, and greater financial inclusion. For example, blockchain-based financial services can provide access to banking and financial services to people who are unbanked or underbanked, and can also reduce the risk of fraud and corruption.
+Another area where blockchain technology has potential is in supply chain management. By recording the journey of a product from its origin to its destination on the blockchain, it can increase transparency, reduce the risk of fraud, and improve the efficiency of the supply chain. This can lead to better decision making, increased trust, and reduced costs for businesses and consumers.
+Despite its many benefits, there are still challenges associated with the widespread adoption of blockchain technology. These include regulatory hurdles, the need for better scalability, and the need for increased security to protect against hacking and cyberattacks.
+
+## Different Industries that use Blockchain
+**ENERGY:** Energy companies use blockchain technology to create peer-to-peer energy trading platforms and streamline access to renewable energy.
+**FINANCE:** Traditional financial systems, like banks and stock exchanges, use blockchain services to manage online payments, accounts, and market trading.
+**MEDIA & ENTERTAINMENT:** Companies in media and entertainment use blockchain systems to manage copyright data.
+## Features of Blockchain
+![](image.jpg)
+Decentralization refers to transferring control and decision making from a centralized to a distributed network.
+Immutability means something cannot be changed or altered.
+A blockchain system establishes rules about participant consent for recording transactions. You can record new transactions only when the majority of participants in the network give their consent.
