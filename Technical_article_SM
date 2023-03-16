@@ -17,3 +17,5 @@ Despite its many benefits, there are still challenges associated with the widesp
 Decentralization refers to transferring control and decision making from a centralized to a distributed network.
 Immutability means something cannot be changed or altered.
 A blockchain system establishes rules about participant consent for recording transactions. You can record new transactions only when the majority of participants in the network give their consent.
+## How does the Blockchain works?
+The blockchain works by having a network of nodes that validate transactions and create a new block that is added to the existing chain of blocks. Each block contains a unique hash code that identifies it, as well as a reference to the hash code of the previous block. This creates a chain of blocks that cannot be altered or deleted, making the blockchain an immutable and tamper-proof record of transactions.
