@@ -1,7 +1,10 @@
 # BlockChain Technology
----
-*An advanced database mechanism that allows transparent information sharing within a business network.*
----
+
+> *An advanced database mechanism that allows transparent information sharing within a business network.*
+
+
+![](https://github.com/Sridevi93/TWMC-IIM-Skills/blob/main/BLOCKCHAIN.jpg)
+
 ## Blockchain and its importance
 Blockchain technology is a decentralized and distributed digital ledger that records transactions across multiple computers in a secure and transparent manner. It was originally developed as the underlying technology for the cryptocurrency, Bitcoin. A blockchain database stores data in blocks that are linked together in a chain. The data is chronologically consistent because you cannot delete or modify the chain without consensus from the network. As a result, you can use blockchain technology to create an unalterable or immutable ledger for tracking orders, payments, accounts, and other transactions. The system has built-in mechanisms that prevent unauthorized transaction entries and create consistency in the shared view of these transactions.  Blockchain is a special type of database management system that has more features than a regular database.
 One of the key benefits of blockchain technology is that it allows for secure and transparent transactions without the need for intermediaries such as banks or other financial institutions. This can lead to increased efficiency, lower transaction costs, and greater financial inclusion. For example, blockchain-based financial services can provide access to banking and financial services to people who are unbanked or underbanked, and can also reduce the risk of fraud and corruption.
@@ -9,13 +12,52 @@ Another area where blockchain technology has potential is in supply chain manage
 Despite its many benefits, there are still challenges associated with the widespread adoption of blockchain technology. These include regulatory hurdles, the need for better scalability, and the need for increased security to protect against hacking and cyberattacks.
 
 ## Different Industries that use Blockchain
-**ENERGY:** Energy companies use blockchain technology to create peer-to-peer energy trading platforms and streamline access to renewable energy.
-**FINANCE:** Traditional financial systems, like banks and stock exchanges, use blockchain services to manage online payments, accounts, and market trading.
-**MEDIA & ENTERTAINMENT:** Companies in media and entertainment use blockchain systems to manage copyright data.
+- **ENERGY:** Energy companies use blockchain technology to create peer-to-peer energy trading platforms and streamline access to renewable energy.
+- **FINANCE:** Traditional financial systems, like banks and stock exchanges, use blockchain services to manage online payments, accounts, and market trading.
+- **MEDIA & ENTERTAINMENT:** Companies in media and entertainment use blockchain systems to manage copyright data.
+
 ## Features of Blockchain
-![](image.jpg)
-Decentralization refers to transferring control and decision making from a centralized to a distributed network.
-Immutability means something cannot be changed or altered.
-A blockchain system establishes rules about participant consent for recording transactions. You can record new transactions only when the majority of participants in the network give their consent.
+
+![](https://github.com/Sridevi93/TWMC-IIM-Skills/blob/main/Features-blockchain.jpg)
+
+- **Decentralization** refers to transferring control and decision making from a centralized to a distributed network.
+- **Immutability** means something cannot be changed or altered.
+- A blockchain system establishes rules about participant **consent** for recording transactions. You can record new transactions only when the majority of participants in the network give their consent.
+---
+
 ## How does the Blockchain works?
 The blockchain works by having a network of nodes that validate transactions and create a new block that is added to the existing chain of blocks. Each block contains a unique hash code that identifies it, as well as a reference to the hash code of the previous block. This creates a chain of blocks that cannot be altered or deleted, making the blockchain an immutable and tamper-proof record of transactions.
+ 
+![](https://github.com/Sridevi93/TWMC-IIM-Skills/blob/main/Flowchart.png)
+
+While underlying blockchain mechanisms are complex, we give a brief overview in the following steps. Blockchain software can automate most of these steps:
+
+1. **Record the transaction:** A blockchain transaction shows the movement of physical or digital assets from one party to another in the blockchain network. It is recorded as a data block and can include details like “Who was involved in the transaction?”, “What happened during the transaction?”, “When did the transaction occur?”, “Where did the transaction occur?”, “Why did the transaction occur?”, “How much of the asset was exchanged?” and “How many pre-conditions were met during the transaction?”.
+2. **Gain consensus:** Most participants on the distributed blockchain network must agree that the recorded transaction is valid. Depending on the type of network, rules of agreement can vary but are typically established at the start of the network.
+3. **Link the blocks:** Once the participants have reached a consensus, transactions on the blockchain are written into blocks equivalent to the pages of a ledger book. Along with the transactions, a cryptographic hash is also appended to the new block. The hash acts as a chain that links the blocks together. If the contents of the block are intentionally or unintentionally modified, the hash value changes, providing a way to detect data tampering. Thus, the blocks and chains link securely, and you cannot edit them. Each additional block strengthens the verification of the previous block and therefore the entire blockchain. This is like stacking wooden blocks to make a tower. You can only stack blocks on top, and if you remove a block from the middle of the tower, the whole tower breaks.
+4. **Share the ledger:** The system distributes the latest copy of the central ledger to all participants.
+---
+
+## Types of Blockchain Networks
+
+### Public Blockchain Networks
+Public blockchains are permissionless and allow everyone to join them. All members of the blockchain have equal rights to read, edit, and validate the blockchain. People primarily use public blockchains to exchange and mine cryptocurrencies like Bitcoin, Ethereum, and Litecoin.
+### Private Blockchain Networks
+A single organization controls private blockchains or managed blockchains. The authority determines who can be a member and what rights they have in the network. Private blockchains are only partially decentralized because they have access restrictions. E.g., Ripple, a digital currency exchange network for businesses.
+### Hybrid Blockchain Networks
+Hybrid blockchains combine elements from both private and public networks. Companies can set up private, permission-based systems alongside a public system. In this way, they control access to specific data stored in the blockchain while keeping the rest of the data public. They use smart contracts to allow public members to check if private transactions have been completed. For example, hybrid blockchains can grant public access to digital currency while keeping bank-owned currency private.
+### Consortium Blockchain Networks
+A group of organizations governs consortium blockchain networks. Preselected organizations share the responsibility of maintaining the blockchain and determining data access rights. Industries in which many organizations have common goals and benefit from shared responsibility often prefer consortium blockchain networks. E.g., the Global Shipping Business Network Consortium is a not-for-profit blockchain consortium that aims to digitize the shipping industry and increase collaboration between maritime industry operators.
+
+## Summary and Conclusion
+
+![](https://github.com/Sridevi93/TWMC-IIM-Skills/blob/main/Summary.png)
+
+---
+*Here's a fun fact about blockchain technology:*
+Did you know that the first blockchain-based transaction took place on January 3rd, 2009, when the first ever Bitcoin block was mined by its creator, Satoshi Nakamoto? This block, known as the "genesis block", contained the first 50 Bitcoin, and set in motion a revolutionary new technology that would change the world forever.
+And who could have known that this simple transaction would lead to the creation of an entire new industry, with thousands of cryptocurrencies, millions of users, and billions of dollars in market capitalization? Today, blockchain technology is being explored and developed for use in a wide range of industries, from finance and banking, to healthcare and government.
+It's truly amazing to think about how far blockchain technology has come in just over a decade, and it will be fascinating to see where it goes next!
+---
+
+==In conclusion, blockchain technology has the potential to revolutionize various industries, including finance, supply chain management, and even voting systems. With its decentralized and secure nature, it ensures the transaction and data are recorded in an immutable manner, thus reducing the risk of tampering and fraud. However, despite its many benefits, the widespread adoption of blockchain technology is still in its early stages and there are challenges that need to be addresses, such as scalability and regulation. Nevertheless, as the technology continues to evolve and mature, it is expected that its impact on society and the global economy will only continue to grow.==
